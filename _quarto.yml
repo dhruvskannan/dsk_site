@@ -6,7 +6,7 @@ website:
   favicon: /Users/dsk/Technical Nonsense/dsk_site/media/CleanShot 2026-03-23 at 17.28.16@2x.png
   navbar:
     left:
-      - href: index.qmd
+      - href: home.qmd
         text: Home
       - writings.qmd
     right:
