@@ -1,7 +1,7 @@
 ---
 title: "Dhruv S. Kannan"
 about:
-    template: trestles
+    template: solana
     image: media/interim.jpeg
     image-shape: round
     image-width: 17em
