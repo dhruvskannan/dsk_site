@@ -3,17 +3,15 @@ project:
   output-dir: docs
 
 website:
-  favicon: /Users/dsk/Technical Nonsense/dsk_site/media/CleanShot 2026-03-23 at 17.28.16@2x.png
+  favicon: media/CleanShot 2026-03-23 at 17.28.16@2x.png
   navbar:
     search: false # search bar disabled
     left:
-      - icon: house
-        href: home.qmd
+      - href: home.qmd
         text: Home
-      - icon: book
-        href: writings.qmd
-      - icon: briefcase
-        text: CV
+      - href: writings.qmd
+        text: Writings
+      - text: CV
         href: media/dsk_resume.pdf
 
 format:
